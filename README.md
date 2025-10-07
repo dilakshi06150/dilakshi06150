@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @dilakshi06150
-- 👀 I’m interested in ...Exploring creative ideas, software development, and sharing my enthusiasm for tech and innovation.
-- 🌱 I’m currently learning ...New programming languages, improving my skills in software development, and finding ways to merge technology with creativity.
-- 💞️ I’m looking to collaborate on ...Projects involving web development, app creation, and innovative software solutions. I’m also open to brainstorming creative ideas and contributing to exciting ventures.
-- 📫 How to reach me ...Feel free to connect via email or social media platforms. Let me know if you'd like to add your contact details here!
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I’m incredibly enthusiastic about solving problems with code, and I love discovering new tools and frameworks that make life easier for developers!
+👋 Hi, I’m @dilakshi06150  
+
+🎨 I’m passionate about ...Designing beautiful, user-friendly interfaces and developing responsive, interactive web experiences. I love combining **UI/UX design** with **front-end development** to bring ideas to life through creativity and clean code.  
+
+💻 I’m currently learning ...Advanced **UI/UX design techniques**, **front-end frameworks** like React, and tools such as **Figma, Adobe XD, and Tailwind CSS** to create smooth, modern user experiences.  
+
+🤝 I’m looking to collaborate on ...Projects that involve **web design, front-end development**, and **creative digital solutions** — especially where design thinking meets code!  
+
+📫 How to reach me ...Feel free to connect via **email or LinkedIn**. I’m always open to new opportunities, collaborations, or design discussions.  
+
+😄 Pronouns: She/Her  
+
+⚡ Fun fact: ...I enjoy solving design challenges with code and turning complex concepts into simple, elegant user experiences.  
+
 
 <!---
 dilakshi06150/dilakshi06150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
